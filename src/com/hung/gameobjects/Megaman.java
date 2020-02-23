@@ -235,6 +235,7 @@ public class Megaman extends Human{
                 break;
 
         }
+        // ve khung hinh cua nhan vat voi map va enemy
 //        drawBoundForCollisionWithMap(g2);
 //        drawBoundForCollisionWithEnemy(g2);
 
